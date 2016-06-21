@@ -1,0 +1,6 @@
+node_modules
+test
+.h5pignore
+karma.conf.js
+package.json
+README.md
